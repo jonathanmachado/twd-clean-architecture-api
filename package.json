@@ -1,0 +1,8 @@
+{
+  "name": "twd-clean-architecture-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jonathanmachado/twd-clean-architecture-api-.git",
+  "author": "jonathanmachado <jonathanmachado48@gmail.com>",
+  "license": "MIT"
+}
